@@ -3,7 +3,7 @@
 
 ## Context
 
-Se tienen que poner medidas de seguridad que garanticen el correcto funcionamiento de la API, evitando usos excesivo y ataques malintencionados de ciberdelincuente.
+Se tienen que poner medidas de seguridad que garanticen el correcto funcionamiento de la API, evitando usos excesivo y ataques malintencionados de ciberdelincuente, que puedan saturar los recursos de la API y evitar el acceso de usuarios no autorizados.
 
 ## Decision
 

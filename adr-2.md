@@ -22,7 +22,7 @@ En caso que la API haga llamada a otra/s API´s poner timeout a dichas llamadas 
 
 ## Status
 
-[Indicate the current status of the decision, such as "proposed", "accepted", "rejected", "superseded", or "obsolete".]
+Diseñada la solcuion a falta de desarrollar e implemnantar.
 
 ## Consequences
 

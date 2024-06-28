@@ -2,11 +2,17 @@
 
 ## Context
 
-[Provide context for the decision, including any constraints or requirements that influenced the decision.]
+[Se tienen que poner medidas de seguridad que garanticen el correcto funcionamiento de la API, evitando usos excesivo y ataques intencionados de ciberdelincuente.]
 
 ## Decision
 
-[State the decision that was made, including any options that were considered and rejected.]
+[La API debe ser publicada mediante protocolo https.
+Limitar el acceso a la API mediante Autentificación
+Dar permisos personalizados a cada usuario Autentificado para que solo puedan hacer uso de los que le hayamos autorizado.
+Limitar la cantidad de llamadas que se puede hacer a la API.
+Poner validación en los inputs para que se cumplan los requisitos que necesita la API para el correcto funcionamiento. 
+En caso que la API haga llamada a otra/s API´s poner timeout a dichas llamadas para evitando que se quede colgada nuestra API.
+]
 
 ## Status
 
